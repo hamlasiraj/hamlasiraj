@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Siraj Eddine from Algeria<br>- 🔭 I’m working as flutter developer<br>- 📚 I'm currently writing this README <br>- ⚡ In my free time I fix bugs</p>
+<p align="left">I'm a mobile developer (Flutter) & a cybersecurity enthusiast (Pentesting).<br>I build secure apps, break insecure ones 👾, and style the web with a bit of HTML & CSS.</p>
 
 ###
 
@@ -32,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
